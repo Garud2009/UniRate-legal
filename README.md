@@ -1,2 +1,2 @@
 # UniRate-legal
-Official privacy policy and terms for the UniRate mobile application
+Official privacy policy and terms of use for the UniRate mobile application
